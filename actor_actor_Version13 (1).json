@@ -1,0 +1,17 @@
+{
+    "actorSpecification": 1,
+    "name": "Clean-Text Wiki Scraper",
+    "title": "Clean-Text Wiki Scraper",
+    "description": "Clean-Text Wiki Scraper",
+    "version": "0.0",
+    "meta": {
+        "templateId": "ai-generated-actor",
+        "generatedBy": "Gpt-4o-mini"
+    },
+    "input": "./input_schema.json",
+    "output": "./output_schema.json",
+    "storages": {
+        "dataset": "./dataset_schema.json"
+    },
+    "dockerfile": "../Dockerfile"
+}
